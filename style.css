@@ -1,0 +1,59 @@
+*{
+    color: aliceblue;
+    width: 100%;
+    font-family: 'Play', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  body{
+    background: url(https://pro-dachnikov.com/uploads/posts/2021-11/1637894472_23-pro-dachnikov-com-p-lotos-orekhonosnii-foto-28.jpg);
+    
+  }
+  .name{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+
+  }
+  .aboutme{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 50px;
+  }
+.Code{
+    display: block;
+    text-align: center;
+    float: left;
+}
+.Code2{
+    display: block;
+    text-align: center;
+    float: left;
+}
+.Code3{
+    display: block;
+    text-align: center;
+    float: left;
+}
+.Code3 a{
+    text-decoration: underline rgb(40, 2, 255);
+}
+.Code a{
+    text-decoration: underline rgb(4, 247, 206);;
+}
+.Code2 a{
+    text-decoration: underline red;
+}
+.Code a:hover{
+    color:#e21111;
+    background-color: #5900ff;
+}
+.Code2 a:hover{
+    color:#e21111;
+    background-color: #5900ff;
+}
+.Code3 a:hover{
+    color: #e21111;
+    background-color: #5900ff;
+}
